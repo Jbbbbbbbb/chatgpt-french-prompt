@@ -1,0 +1,24 @@
+act,prompt
+Générer Sitemap,Créer un sitemap XML valide qui comprend les URL suivantes :
+Idées de mots-clés,Liste 20 mots-clés pour que je puisse écrire des articles optimisés SEO sur le sujet suivant : 
+Mots clés longue traine,"Suggère 10 mots-clés longue traîne  pour que je puisse écrire des articles optimisés SEO sur le thème suivant :
+"
+Classer par intention de recherche,"Catégorise la liste de mots-clés suivante selon les intentions de recherche qu’elles soient navigationnelle, informationnelle ou transactionnelle : "
+Cluster de mots clés,Regrouper les mots-clés suivant selon leur proximité sémantique. Chaque groupe devra être nommé. 
+Traduction,"Traduis la liste de mots-clés suivants de {langue d'origine} au {langue ciblée} et présente les résultats dans un tableau de deux colonnes avec le mot-clé en {langue d'origine} dans la colonne 1 et le mot-clé traduit en {langue ciblée} dans la colonne 2 : {liste de mots-clés}
+"
+Générer des entités,Liste les entités SEO en lien avec :
+Lister des entités,Lister toutes les entités SEO relationnelles au sujet de :
+Extraire des entités,Extrait les entités de ce texte :
+Générer un meta title,Crée 3 versions de titres uniques de maximum 60 caractères à partir du texte ci-dessous. Le titre doit être descriptif et inclure le mot-clé suivant :
+Créer meta desc,"Crée 3 meta-description de maximum 160 caractères, à partir du texte ci-dessous. La description doit être attrayante, inclure un call to action et inclure le mot-clé suivant :"
+Générer FAQ à partir du texte,Extrait 5 FAQs à partir du texte suivant :
+FAQ Schema.org,"Génère une FAQ au format schema.org , à partir du texte suivant :"
+Ajouter des sources à un sujet,"Liste le top 10 des faits, statistiques et tendances, en incluant leur source, en lien avec ce sujet :"
+Créer structure article de blog,"Créer la structure d'un article de blog, informationnel sur un ton neutre. Utilise des headings H1,H2,H3. Le sujet est le suivant : "
+Brief de rédaction,"Rédige un brief éditorial à l’attention d’un rédacteur web qui devra écrire un article dont le titre est le suivant : 
+L’article s’adresse à l'audience suivante :
+Le brief générer doit inclure le titre, un plan (avec des headings H2, H3), les mots-clés importants, les entités et des liens vers les principales sources d’information. "
+Réécriture d'un texte,"Réécris le paragraphe suivant de 3 façon différentes, afin d'éviter des répétitions, tout en maintenant le sens. "
+Créer fichier robots.txt,"Crée un fichier robots.txt qui bloque l’accès des crawlers aux dossiers suivants :  
+Mais permet l’accès des crawlers au reste du domaine. "
