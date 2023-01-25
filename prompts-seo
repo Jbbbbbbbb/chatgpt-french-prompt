@@ -14,8 +14,6 @@
 "FAQ Schema.org","Génère une FAQ au format schema.org ; à partir du texte suivant :"
 "Ajouter des sources à un sujet","Liste le top 10 des faits; statistiques et tendances; en incluant leur source; en lien avec ce sujet :"
 "Créer structure article de blog","Créer la structure d'un article de blog; informationnel sur un ton neutre. Utilise des headings H1;H2;H3. Le sujet est le suivant : "
-"Brief de rédaction",""Rédige un brief éditorial à l’attention d’un rédacteur web qui devra écrire un article dont le titre est le suivant : 
-L’article s’adresse à l'audience suivante :
-Le brief générer doit inclure le titre; un plan (avec des headings H2, H3); les mots-clés importants; les entités et des liens vers les principales sources d’information. "
+"Brief de rédaction",""Rédige un brief éditorial à l’attention d’un rédacteur web qui devra écrire un article dont le titre est le suivant (Sujet) L’article s’adresse à l'audience suivante (audience). Le brief générer doit inclure le titre; un plan (avec des headings H2, H3); les mots-clés importants; les entités et des liens vers les principales sources d’information."
 "Réécriture d'un texte","Réécris le paragraphe suivant de 3 façon différentes; afin d'éviter des répétitions; tout en maintenant le sens. "
 "Créer fichier robots.txt",""Crée un fichier robots.txt qui bloque l’accès des crawlers aux dossiers suivants : (Lister les dossiers) Mais permet l’accès des crawlers au reste du domaine."
