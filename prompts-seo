@@ -23,6 +23,14 @@
 "Générer plan de site",""Créer un plan de site pour un site Web avec des pages sur la politique de confidentialité et les conditions d'utilisation. Voici le ou les mots clés principaux""
 "Arborescence de mots clés","Donne moi une arborescence de requêtes utilisateurs SEO autour de la thématique de:"
 "Définition lexique","Agis en tant que rédacteur SEO professionnel, qui va écrire les définitions d'un glossaire. Je vais te lister des mots à chaque nouvelle commande. Tu répondras par la définition du mot ou du terme en question, en restant toujours focalisé sur ce mot principal. Le texte généré fera au minimum 300 mots. Si tu n'es pas sur de toi, n'invite rien et tiens en toi à ce qui est réel. Utilise des headings H1, H2. Je commence avec le mot suivant :"
+"Audit d'une page","Faites comme si vous étiez un spécialiste du référencement. Effectuez un audit SEO On-page de la page web suivante <url>"
+"10 idées de sujets","Suggérer 10 titres accrocheurs pour <topic>"
+"Correction grammaire","Vérifier la grammaire du contenu suivant et signaler les problèmes <contenu>.
+"Ajouter des stats","fournir une liste de statistiques ainsi que des liens de référence pour un <titre>."
+"FAQ à partir d'un sujet","Générer une liste de FAQ pour une page web sur <description du sujet>.",
+"Générer Hreflangs","Générer les balises hreflang pour une page web ciblée sur <pays> en <langue>, <pays> en <langue>, etc."
+"Redirection 301","Générer les règles de réécriture .htaccess pour rediriger 301-redirect <source URL> vers <destination URL>."
+"Regex","Générer une RegEx dans la syntaxe RE2 pour <description ici>"
 "À venir","."
 "À venir","."
 "À venir","."
